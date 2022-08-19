@@ -1,0 +1,4 @@
+div.background{
+    background-image: url(./view/styles/images/background.svg);
+    background-size: cover;
+}

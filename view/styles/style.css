@@ -1,0 +1,9 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+html,
+body{
+    background-color: var(--blue-light);
+    height: 100%;
+}
