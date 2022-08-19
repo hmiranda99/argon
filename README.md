@@ -29,11 +29,11 @@ Um sistema completo para acompanhamento de produtos que ainda conta com uma mini
 - Dashboard com gráficos e métricas para monitoramento dos dados;
 
 ##
-### Demo
+### 🎥 Demo
 https://user-images.githubusercontent.com/79329906/185614388-9635dd11-5d94-4644-9860-ca0f5c0de10e.mp4
  
 ##
-### <div align="center">Desenvolvedores</div>
+### <div align="center">👩‍💻👨‍💻Desenvolvedores</div>
 <div align="center">
  
  <a href="https://www.linkedin.com/in/hmirandas/">
