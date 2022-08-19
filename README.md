@@ -1,8 +1,9 @@
+<img align="right" src="https://user-images.githubusercontent.com/79329906/185622970-3363299e-2b20-42ce-b39d-9893dd54fffa.svg" width="250" height="250">
+
 <div align="center">
   
 ### Argon
-Um sistema completo para acompanhamento de produtos que ainda conta com uma mini API para desenvolvedores. <br>
-💻 Projeto realizado na aula de Programação Web III, com o bjetivo de exercitar a integração do front-end, back-end e o banco de dados.
+Um sistema completo para acompanhamento de produtos que ainda conta com uma mini API para desenvolvedores.
   
 </div>
 
@@ -36,11 +37,11 @@ https://user-images.githubusercontent.com/79329906/185614388-9635dd11-5d94-4644-
 <div align="center">
  
  <a href="https://www.linkedin.com/in/hmirandas/">
-   <img src="https://user-images.githubusercontent.com/79329906/151833054-ab960ad4-f6a0-436f-a1aa-666e8221b02c.svg" width=450>
+   <img src="https://user-images.githubusercontent.com/79329906/151833054-ab960ad4-f6a0-436f-a1aa-666e8221b02c.svg" width=400>
  </a>
  
  <a href="https://github.com/DuS0usa">
-   <img src="https://user-images.githubusercontent.com/79329906/151837708-bbed3c36-75ab-4355-a9a0-60894abf7e85.svg" width=450>
+   <img src="https://user-images.githubusercontent.com/79329906/151837708-bbed3c36-75ab-4355-a9a0-60894abf7e85.svg" width=400>
  </a>
  
 </div>
